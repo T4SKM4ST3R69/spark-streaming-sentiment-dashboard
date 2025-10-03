@@ -49,7 +49,8 @@ https://github.com/T4SKM4ST3R69/spark-streaming-sentiment-dashboard.git
 
 2. Install requirements:
 
-requirements.txt
+`pip install -r requirements.txt`
+
 
 
 ### Quick Start
