@@ -39,6 +39,7 @@ The system scrapes news from the following Indian news sources:
 ### Prerequisites
 
 Python 3.7+
+
 Java 8+ (for Spark)
 
 ### Installation
@@ -49,7 +50,9 @@ https://github.com/T4SKM4ST3R69/spark-streaming-sentiment-dashboard.git
 
 2. Install required packages:
 pip install pyspark findspark textblob nltk beautifulsoup4 requests
+
 pip install matplotlib seaborn plotly pandas wordcloud transformers torch
+
 pip install newspaper3k feedparser lxml fake-useragen
 
 3. Download NLTK data:
@@ -108,5 +111,7 @@ The system generates various visualizations:
 ## Project Structure
 
 ├── Pyspark.ipynb  
+
 ├── README.md 
+
 └── requirements.txt 
