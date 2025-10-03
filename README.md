@@ -45,6 +45,7 @@ Java 8+ (for Spark)
 
 1. Clone the repository:
 https://github.com/T4SKM4ST3R69/spark-streaming-sentiment-dashboard.git
+
 cd spark-streaming-sentiment-dashboard
 
 2. Install required packages:
