@@ -47,19 +47,9 @@ Java 8+ (for Spark)
 1. Clone the repository:
 https://github.com/T4SKM4ST3R69/spark-streaming-sentiment-dashboard.git
 
+2. Install requirements:
 
-2. Install required packages:
-pip install pyspark findspark textblob nltk beautifulsoup4 requests
-
-pip install matplotlib seaborn plotly pandas wordcloud transformers torch
-
-pip install newspaper3k feedparser lxml fake-useragen
-
-3. Download NLTK data:
-import nltk
-nltk.download('punkt')
-nltk.download('vader_lexicon')
-nltk.download('stopwords')
+requirements.txt
 
 
 ### Quick Start
